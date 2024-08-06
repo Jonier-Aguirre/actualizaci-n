@@ -1,0 +1,109 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.navbar-brand {
+    font-size: 1.9rem;
+    font-weight: bolder;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+}
+
+#home {
+    padding: 100px 0;
+    background: #aad4ff;
+}
+
+#home h1 {
+    font-size: 3rem;
+    margin-bottom: 29px;
+}
+
+#home p {
+    font-size: 1.4rem;
+}
+
+#services {
+    padding: 56px ;
+}
+
+#services h2 {
+    font-size: 2rem;
+    margin-bottom: 46px;
+}
+
+#services .card {
+    margin-bottom: 38px;
+}
+
+#services .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 16px;
+}
+
+#gallery {
+    padding: 60px 0;
+    background: #55a3f1;
+}
+
+#gallery h2 {
+    font-size: 2.5rem;
+    margin-bottom: 60px;
+}
+
+#gallery img {
+    margin-bottom: 55px;
+}
+
+#testimonials {
+    padding: 69px ;
+}
+
+#testimonials h2 {
+    font-size: 2.5rem;
+    margin-bottom: 49px;
+}
+
+#testimonials blockquote {
+    border-left: 6px solid #007bff;
+    padding-left: 15px;
+    font-size: 1.2rem;
+}
+
+#testimonials blockquote p {
+    margin-bottom: 28px;
+}
+
+#testimonials blockquote footer {
+    font-size: 1rem;
+}
+
+footer {
+    background: #edf5fc;
+    padding: 20px 0;
+}
+
+footer p {
+    margin: 4px;
+    font-size: 1rem;
+    color: #000000;
+    padding-top: 40px;
+}
+
+footer a img {
+    color: #007bff;
+}
+
+footer a img:hover {
+    filter: none;
+    color: bisque;
+}
+.container
+{
+    color: #000000;
+    
+}
